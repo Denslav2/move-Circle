@@ -1,0 +1,26 @@
+*{
+    margin: 0 auto;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(16, 100, 255);
+    border-radius: 50%;
+    border: 2px solid black;
+}
+.box{
+    width: 500px;
+    margin: 0 auto;
+}
+.btn{
+    padding: 10px 25px;
+    background-color:aqua;
+}
+.btn:active{
+    background-color: rgb(71, 185, 26);
+}
+.btn:first-child{
+    margin-left: 110px;
+}
